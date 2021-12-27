@@ -18,3 +18,8 @@ Este repositorio tiene todo mi trabajo de programacion (PA) en esté curso.
 - 05b: [Transfer Learning](https://github.com/germangelv/fundamentals-of-deep-learning-nvidia/blob/master/05b_presidential_doggy_door.ipynb)
 - 06: [Sequence Data](https://github.com/germangelv/fundamentals-of-deep-learning-nvidia/blob/master/06_headline_generator.ipynb)
 - 07: [Assessment](https://github.com/germangelv/fundamentals-of-deep-learning-nvidia/blob/master/07_assessment.ipynb)
+
+## Hitos
+- Inscripcion por Universidad de Sevilla el **02-12-2021**
+- Assessment iniciado el **26-12-2021**
+- Assessment completado el **27-12-2021**
